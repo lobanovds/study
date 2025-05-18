@@ -1,0 +1,4 @@
+*.pkrvars.hcl
+.env
+secrets.json
+.idea
