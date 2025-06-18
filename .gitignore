@@ -2,3 +2,5 @@
 .env
 secrets.json
 .idea
+/install_vm/.secrets.env
+/install_vm/test.ps1
