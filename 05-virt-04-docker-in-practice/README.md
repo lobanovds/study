@@ -65,10 +65,12 @@ _система запущена на образе из Packer в котором
 1. Создал registry с именем "test" с помощью "yc tool" . [Инструкция](https://cloud.yandex.ru/ru/docs/container-registry/quickstart/?from=int-console-help)
 
 ![img_11.png](img_11.png)
+
 2. Настроил аутентификацию вашего локального docker в yandex container registry. ![img_14.png](img_14.png)
 3. Собрал и залил в него образ с python приложением из задания №1.
 
 ![img_16.png](img_16.png)
+
 4. Просканировал образ на уязвимости. 
 5. Отчет сканирования.[vulnerabilities.csv](vulnerabilities.csv)
 
